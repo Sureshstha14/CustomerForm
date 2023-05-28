@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: white;
+    background-color:black;
+  }
+  .container{
+      height: 120vh;
+  }
+
+.survey {
+  font-size: 50px;
+  align-items: center;
+  border-bottom: 50px white ;
+  
+  padding: 50px 00px 0px 500px ;
+}
+
+.box1{
+  width: 100%;
+  height: 30vh;
+  padding-left: 50px;
+}
+.customer,.address{
+font-size: 50px;
+}
+.input_name{
+  width:500px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  line-height: 25px;
+}
+.input{
+  width: 80%;
+  height:30px;
+  border-radius: 5px;
+}
+.box2,.box3{
+  width: 100%;
+  height: 40vh;
+  padding-left: 50px;
+  font-size: 25px;
+}
+.input1{
+  width: 40%;
+  height:30px;
+  border-radius: 5px;
+}
+
+.submit{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  margin: 50px 00px 00px 200px;
+  color:grey;
+}
+.submit:hover{
+  background-color:beige;
+  font-size: 15px;
+  border: 5px green;
+  font-weight: 600;
+  color: black;
+}
+i{
+  color: white;
+  font-size: 40px;
+  margin-right: 10px;
+}
+.icon_address{
+  margin-left: -40px;
+}
+
+.icon_people{
+  margin-left: -30px;
+
+}
+.submit_icon{
+  width: 50%;
+display: block;
+padding-left: 60px;
+}
+.submit{
+ margin-left: -5px;
